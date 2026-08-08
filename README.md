@@ -17,5 +17,11 @@ Section: BSIT4A
 ## Technologies I Want to Learn
 - Cloud Computing
 - Cybersecurity
-- APIs and Web Services
-- Git and GitHub
+- API Development and Integration
+- DevOps
+
+---
+
+## About Me
+
+I am a fourth-year BS Information Technology student with an interest in software development and emerging technologies. I have experience using programming languages such as HTML, CSS, JavaScript, Java, PHP, C++, and C. I have also worked with Git, GitHub, Visual Studio Code, and other web development tools. My career goal is to further develop my skills in Cloud Computing and Cybersecurity and pursue a career in the IT industry.
